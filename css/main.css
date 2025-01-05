@@ -75,7 +75,7 @@ p span{
   background-color: #fff;
   padding-bottom: 80px;
   box-shadow: 0 0 15px #ddd;
-  background-image: url(../media/bg.png);
+  /* background-image: url(../media/bg.png); */
   background-position: center right;
   background-repeat: no-repeat;
 }
@@ -111,7 +111,7 @@ video{
   font-family: times;
   text-align: center;
   font-weight: bold;
-  margin-top: 100px;
+  margin-top: 10px;
   color: #000;
 }
 .large-author{
